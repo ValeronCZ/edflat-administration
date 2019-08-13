@@ -1,0 +1,41 @@
+// Theme colors
+$primary-color: #00639a;
+$dark-primary: #005788;
+$even-darker-primary:#003f6a;
+$grey-primary: #ECECEC;
+$success-color: #13ce66;
+$error-color: #F56C6C;
+
+
+// Element UI
+$--color-primary: #00639a;
+
+// Colors
+$white: white;
+
+// Border
+$border-radius: 4px;
+
+// Spacer
+$spacer: 1rem;
+$navbar-space: 61px;
+$sidebar-width: 250px;
+
+// Breakpoints
+$xs: 0px;
+$sm: 375px;
+$md: 768px;
+$lg: 1024px;
+$xl: 1440px;
+$sidebar-breakpoint:1280px;
+$small-mobile:502px;
+
+// Container
+$container-width-md: 700px;
+$container-width-lg: 980px;
+$container-width-xl: 1400px;
+
+// Variables
+$border-radius: 4px;
+// From Element UI node_modules
+$item-label-line-height: 40px;
